@@ -1,0 +1,15 @@
+Metric,Value
+Dataset rows,1000
+Total sales (INR),139399439.65
+Average sales per row (INR),139399.43965000001
+Male records,511
+Female records,489
+Male mean sales (INR),141807.3397847358
+Female mean sales (INR),136883.20862985688
+Welch t-statistic,0.6826103913380815
+Welch p-value,0.49501147851458344
+Mean difference Male-Female (INR),4924.131154878938
+95% CI lower (INR),-9231.584614215133
+95% CI upper (INR),19079.84692397301
+Significance level,0.05
+Decision,Fail to reject H0; difference not statistically significant
